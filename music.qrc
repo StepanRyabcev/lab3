@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>resources/1.mp3</file>
+        <file>resources/2.mp3</file>
+    </qresource>
+    <qresource prefix="/venok">
+        <file>resources/venok.png</file>
+    </qresource>
+</RCC>
